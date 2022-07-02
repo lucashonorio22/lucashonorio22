@@ -1,9 +1,7 @@
-### Hi there 👋
-
+Bem Vindo !
 <!--
-**lucashonorio22/lucashonorio22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, me chamo Lucas Honório. Novo ingressante do ramo TI,Cursando atualmente Tecnólogo em ADS e complementares em HTML5,CSS3 E JAVA SCRIPT. 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
